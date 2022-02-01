@@ -1,4 +1,4 @@
-# Assignment 6 - Public Key Cryptography
+#  Public Key Cryptography
 
 This makes a key generator, a encryptor and a decryptor which using RSA algorithm to encrypt files and decrypt files.
 

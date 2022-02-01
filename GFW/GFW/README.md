@@ -1,4 +1,4 @@
-# Assignment 7 - The Great Firewall of Santa Cruz Bloom Filters, Binary Trees and Hash Tables
+# The Great Firewall of Santa Cruz Bloom Filters, Binary Trees and Hash Tables
 
 This makes a word filter, filt the word king don't want or change the oldspeak to newspeak.
 
